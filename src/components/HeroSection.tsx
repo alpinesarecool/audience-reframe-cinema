@@ -21,8 +21,8 @@ export const HeroSection = () => {
           Redefining cinema criticism. We find the hidden gems in films the world overlooked.
         </p>
         <p className="text-lg text-foreground mb-12 max-w-2xl mx-auto">
-          Our mission: <span className="text-primary font-semibold">Make stale food look delicious.</span> 
-          Every misunderstood film deserves a second chance, and we're here to give it one.
+          Our mission: <span className="text-primary font-semibold">Make forgotten films unforgettable.</span> 
+          Every misunderstood masterpiece deserves a standing ovation, and we're here to give it one.
         </p>
         
         <Button 

@@ -16,7 +16,7 @@ export const Header = ({ searchTerm, onSearchChange }: HeaderProps) => {
             <Film className="h-8 w-8 text-primary" />
             <div>
               <h1 className="text-2xl font-bold tracking-tight">AudienceCut</h1>
-              <p className="text-sm text-muted-foreground">Making stale food look delicious</p>
+              <p className="text-sm text-muted-foreground">Making forgotten films unforgettable</p>
             </div>
           </div>
           
